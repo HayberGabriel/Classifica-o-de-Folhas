@@ -11,5 +11,5 @@ Projeto acadêmico de Visão Computacional (2025.2)
 2. Execute todas as células do notebook no Google Colab
 3. O notebook já mostra as acurácias finais
 
-## Algumas imagens de exemplo incluídas no repositório (pasta images/)
+## Algumas imagens de exemplo incluídas no repositório
  - imagens intermediarias: imagens segmentadas, contornos das folhas.
