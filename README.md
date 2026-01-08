@@ -11,10 +11,5 @@ Projeto acadêmico de Visão Computacional (2025.2)
 2. Execute todas as células do notebook no Google Colab
 3. O notebook já mostra as acurácias finais
 
-## Imagens incluídas no repositório (pasta images/)
-- `original_example.jpg` – imagem original do dataset`
-- `gray.jpg` – conversão para tons de cinza`
-- `threshold_otsu.jpg` – resultado da limiarização de Otsu`
-- `mask_final.jpg` – máscara da folha após operações morfológicas`
-- `contour.jpg` – contorno detectado sobre a imagem original`
-- `pca_explained_variance.png` – gráfico da variância explicada pelo PCA`
+## Algumas imagens de exemplo incluídas no repositório (pasta images/)
+ - imagens intermediarias: imagens segmentadas, contornos das folhas.
