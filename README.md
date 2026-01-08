@@ -7,9 +7,10 @@ Projeto acadêmico de Visão Computacional (2025.2)
 - 34 espécies classificadas usando apenas características morfológicas e de textura
 
 ## Como executar
-1. Coloque o dataset Flavia descompactado em `/content/drive/MyDrive/Flavia/Flavia` ou altere o caminho no notebook
+1. Coloque o dataset Flavia descompactado em `/content/drive/MyDrive/Leaves` ou altere o caminho no notebook
 2. Execute todas as células do notebook no Google Colab
 3. O notebook já mostra as acurácias finais
+
 ## Imagens incluídas no repositório (pasta images/)
 - `original_example.jpg` – imagem original do dataset`
 - `gray.jpg` – conversão para tons de cinza`
